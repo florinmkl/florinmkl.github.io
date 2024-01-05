@@ -26,7 +26,7 @@ body {
     text-decoration-line: none;
 }
 .navbar-list li {
-    padding: 0px;
+    padding: 50px;
 }
 .navbar li {
     color:rgb(148, 80, 80);
@@ -39,7 +39,7 @@ body {
 @media only screen and (max-device-width: 320px) {
    .navbar-list li{
        display:block;
-       padding:0px;
+       padding:10px;
     }
 }
 a {
