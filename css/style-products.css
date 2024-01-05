@@ -4,7 +4,6 @@
 }
 body {
     background-color: rgb(245, 203, 125);
-    padding-bottom: 160px;
 }
 .header {
     position: relative;
@@ -25,6 +24,7 @@ h2 {
 .products {
     width:40%;
     position: fixed;
+    padding-bottom: 100px;
 }
 .products li {
     list-style-type: none;
