@@ -3,7 +3,8 @@
     margin: 0px
 }
 body {
-    background-color: rgb(245, 203, 125)
+    background-color: rgb(245, 203, 125);
+    padding-bottom: 60px;
 }
 .header {
     position: relative;
