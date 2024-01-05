@@ -38,8 +38,8 @@ body {
 }
 @media only screen and (max-device-width: 420px) {
    .navbar-list li{
-       display:block;
-       padding:10px;
+    float: none;
+    width: 100%;c
     }
 }
 a {
