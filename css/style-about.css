@@ -2,7 +2,8 @@
     margin: 0px
 }
 body {
-    background-color: rgb(245, 203, 125)
+    background-color: rgb(245, 203, 125);
+    padding-bottom: 60px;
 }
 .header {
     position: relative;
@@ -26,7 +27,7 @@ p {
     color: rgb(148, 80, 80);
     font-size: 1.2em;
     font-family: 'Times New Roman', Times, sans-serif;
-    padding-bottom: 60px;
+    
 }
 .footer p {
     color: black;
