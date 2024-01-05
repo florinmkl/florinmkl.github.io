@@ -25,6 +25,9 @@ body {
     text-align: center;  
     text-decoration-line: none;
 }
+.navbar-list li {
+    padding: 0px;
+}
 .navbar li {
     color:rgb(148, 80, 80);
     text-decoration-line: none;
@@ -37,7 +40,7 @@ body {
 @media only screen and (max-device-width: 320px) {
    .navbar-list li{
        display:block;
-       padding:10px;
+       padding:0px;
     }
 }
 a {
