@@ -24,7 +24,9 @@ h2 {
 }
 .products {
     width:40%;
-    padding: 0;
+}
+.products ul { 
+    padding: 0px;
 }
 .products li {
     list-style-type: none;
