@@ -35,7 +35,6 @@ body {
     display: inline;
     width: 100%;
     font-size: 20px;
-    padding: 60px;
 }
 @media only screen and (max-device-width: 320px) {
    .navbar-list li{
