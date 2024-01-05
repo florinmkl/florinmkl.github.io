@@ -29,7 +29,7 @@ body {
     color:rgb(148, 80, 80);
     text-decoration-line: none;
     list-style-type: none;
-    display: inline;
+    display: inline-block;
     width: 100%;
     font-size: 20px;
     padding: 60px;
