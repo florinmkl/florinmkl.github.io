@@ -42,6 +42,11 @@ body {
     display:block;
     }
 }
+@media screen and ( max-width: 800px) and (min-width: 420px) {
+    .navbar-list li{
+     padding: 30px; 
+     }
+ }
 a {
     color:rgb(148, 80, 80);
     text-decoration: none;
