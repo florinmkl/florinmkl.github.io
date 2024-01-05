@@ -20,7 +20,7 @@ body {
     color: rgb(148, 80, 80);
 }
 .navbar-list {
-    padding: 10px;
+    padding-top: 10px;
     background-color: rgb(245, 203, 125);
     text-align: center;  
     text-decoration-line: none;
@@ -38,8 +38,7 @@ body {
 }
 @media screen and (max-width: 420px) {
    .navbar-list li{
-    float: none;
-    width: 100%;c
+    padding: 0px; 
     }
 }
 a {
